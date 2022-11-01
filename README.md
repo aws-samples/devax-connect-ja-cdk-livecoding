@@ -1,7 +1,7 @@
 # DevAx::connect CDK実践勉強会
 DevAx::connect CDK実践勉強会のライブコーディングでお見せしたコードです。
 
-テストのパートでご紹介したテストコードも含まれます。
+テストのパートでご紹介したテストコードも含まれます。開催後の[ブログ記事はこちら](https://aws.amazon.com/jp/blogs/news/devaxconnect-cdk-study/)。
 
 ![architecture](architecture.png)
 
